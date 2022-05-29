@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-challenge-uzi.ru/static/css/main.88d2e05e.css",
+    "main.js": "/frontend-challenge-uzi.ru/static/js/main.da6b7f06.js",
+    "index.html": "/frontend-challenge-uzi.ru/index.html",
+    "static/media/favorite-unliked.svg": "/frontend-challenge-uzi.ru/static/media/favorite-unliked.6adfe85f8b98c6dc6b44df906a50f5eb.svg",
+    "static/media/favorite-liked.svg": "/frontend-challenge-uzi.ru/static/media/favorite-liked.8220379cb36244a7738b6600ebc04025.svg",
+    "main.88d2e05e.css.map": "/frontend-challenge-uzi.ru/static/css/main.88d2e05e.css.map",
+    "main.da6b7f06.js.map": "/frontend-challenge-uzi.ru/static/js/main.da6b7f06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d2e05e.css",
+    "static/js/main.da6b7f06.js"
+  ]
+}
